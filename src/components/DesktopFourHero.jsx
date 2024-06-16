@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import BackArrow from "../assets/images/svg/BackArrow.svg";
 import PlayButton from "../assets/images/svg/PlayButton.svg";
-import GothamSeason1 from "../assets/Videos/GothamS eason1.mp4";
+import GothamSeason1 from "../assets/Videos/GothamSeason1.mp4";
 import Dasktop2HeroImg from "../assets/images/png/Dasktop2HeroImg.png";
 import { DesktopContext } from "./Contextuse";
 
